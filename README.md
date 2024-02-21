@@ -1,5 +1,6 @@
 # WebContainer API Starter
 
+
 WebContainer API is a browser-based runtime for executing Node.js applications and operating system commands. It enables you to build applications that previously required a server running.
 
 WebContainer API is perfect for building interactive coding experiences. Among its most common use cases are production-grade IDEs, programming tutorials, or employee onboarding platforms.
